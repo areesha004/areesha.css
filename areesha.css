@@ -1,0 +1,41 @@
+h1{
+    border:30px solid blue;
+    width:1000px;
+    height:1000px;
+}
+.masterdiv{
+    border:  solid brown;
+    width:200px;
+    height:200px;
+
+}
+.div1{
+    border:solid green;
+    width:200px;
+    height:200px;
+    display:inline-block;
+}
+.div2{
+    border:solid red;
+    width:200px;
+    height:200px;
+    display:inline-block;
+}
+.div3{
+    border:solid purple;
+    width:200px;
+    height:2000px;
+    display:inline-block;
+}
+.div4{
+    border:solid orange;
+    width:200px;
+    height:200px;
+    display:inline-block;
+    margin-top:80px;
+    margin-left:50px;
+    padding:20px;
+    padding: 40px;
+    
+    
+}
